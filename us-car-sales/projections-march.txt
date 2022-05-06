@@ -9,10 +9,10 @@ Std Dev: 0.006740472825848736
 ========================
 Expected outcomes based on data
 Actual sales in window 2022: 1290.666
-Projected historic min: 18769.21835862787
+Projected historic min: 11813.842105022057
 Projected historic mean: 13942.391605494107
 Projected historic median: 13944.595083969245
-Projected historic max: 11813.842105022057
+Projected historic max: 18769.21835862787
 Projected lower bound 1 std dev: 12996.096290771742
 Projected upper bound 1 std dev: 15037.31590163208
 Projected lower bound 2 std dev: 12170.090270526996
