@@ -1,0 +1,17 @@
+Analysis
+=======================
+Fraction of yearly sales in specified window
+Max: 0.2809786210023367
+Min: 0.2117481285096045
+Mean: 0.23810285028378675
+Std Dev: 0.014023230851421929
+========================
+Expected outcomes based on data
+Actual sales in window 2022: 3392.6769999999997
+Projected historic min: 16022.228974959342
+Projected historic mean: 14248.787849269267
+Projected historic max: 12074.502280270586
+Projected lower bound 1 std dev: 13456.271500053956
+Projected upper bound 1 std dev: 15140.497866759499
+Projected lower bound 2 std dev: 12747.269473198648
+Projected upper bound 2 std dev: 16151.267871068198
